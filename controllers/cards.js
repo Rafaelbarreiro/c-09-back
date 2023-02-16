@@ -38,7 +38,7 @@ const getCards = async (req, res) => {
   } catch (error) {
     res.status(400).json(error.message)
   }
-  
+   
 };
 
 const getCardById = async (req, res) => {
