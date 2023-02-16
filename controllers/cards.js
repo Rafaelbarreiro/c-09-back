@@ -22,19 +22,22 @@ const getCards = async (req, res) => {
         cardByName.length > 0
         ? res.json (cardByName)
         : res.status(404).json({message: "Card not found"});
-    }else{
-      if(category){
+    }
+      else if(category){
         const cardByCategory = await Cards.find({ category: { $in: [`${category}`] } }, { projection })
         res.status(200).json(cardByCategory)
-      }if(autor){
+        
+      }
+      else if(autor){
         const byAutor = await Cards.find ({ autor: {$eq: `${autor}` }} );
         res.status(200).json(byAutor)
-      } else{
+      } 
+      else {
         allCards.length > 0
         ? res.status(200).json(allCards)
         : res.status(404).json({message: "No cards"})
       }
-    }
+    
   } catch (error) {
     res.status(400).json(error.message)
   }
