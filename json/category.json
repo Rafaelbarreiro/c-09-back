@@ -1,0 +1,20 @@
+[
+    {"name": "Music",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505068/MUSIC_lrxkwu.jpg"},
+    {"name": "Art", 
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505069/ART_cyxabu.jpg"},
+    {"name": "ONG",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505068/ONG_sndwmd.jpg"},
+    {"name": "Education",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505068/EDUCATION_cenxig.jpg"},
+    {"name": "People",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505069/PEOPLE_qnbrpm.jpg"},
+    {"name": "Professional growth",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505069/PROFESSIONAL-GROWTH_knqo4b.jpg"},
+    {"name": "Animals",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505068/ANIMAL_axibgk.jpg"},
+    {"name": "Sports",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505069/SPORT_wifmja.jpg"},
+    {"name": "Health care",
+    "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676505068/HEALTH-CARE_boakud.jpg"}
+]

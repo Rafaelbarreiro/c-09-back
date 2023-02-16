@@ -1,0 +1,241 @@
+[
+ {
+    "title": "My first guitar",
+    "subtitle": "I want my first guitarr for play",
+    "img": "https://cdn.pixabay.com/photo/2013/07/12/15/06/guitar-149427_640.png",
+    "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+    "category": "Music",
+    "totalAmount": 3200,
+    "parcialAmount": 2500,
+    "finaldate": "2023/12/20",
+    "autor": "Nick Holden"
+ },
+ {
+   "title": "My own taller",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801969/IMAGEN_11_lqheii.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Professional growth",
+   "totalAmount": 3300,
+   "parcialAmount": 3300,
+   "finaldate": "2023/11/20",
+   "autor": "Nick Holden"
+},
+{
+   "title": "Proyects in home",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801968/IMAGEN_7_u0a3zm.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Education",
+   "totalAmount": 3200,
+   "parcialAmount": 1000,
+   "finaldate": "2023/12/20",
+   "autor": "Nick Holden"
+},
+{
+   "title": "Fix the theatre",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801969/IMAGEN_15_pvcjhs.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Art",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/12/20",
+   "autor": "Benjamin Cooper"
+},
+{
+   "title": "Management you finances",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801969/IMAGEN_13_h9mrbs.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Education",
+   "totalAmount": 3200,
+   "parcialAmount": 2000,
+   "finaldate": "2023/12/20",
+   "autor": "Benjamin Cooper"
+},
+{
+   "title": "Finish my studies",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801969/IMAGEN_10_siy03i.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Education",
+   "totalAmount": 3200,
+   "parcialAmount": 3300,
+   "finaldate": "2023/09/20",
+   "autor": "William Grey"
+},
+{
+   "title": "Sun race",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801969/IMAGEN_8_irkzzh.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Education",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/10/20",
+   "autor": "William Grey"
+},
+{
+   "title": "Help refugees",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801968/IMAGEN_6_gp7wzp.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "ONG",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/07/20",
+   "autor": "franandres93@gmail.com"
+},
+{
+   "title": "Vets for street dogs",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801968/IMAGEN_4_kpsrqg.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Animals",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/06/20"
+},
+{
+   "title": "I want to go to the Olympics",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801968/IMAGEN_9_pjmnj3.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Sports",
+   "totalAmount": 3200,
+   "parcialAmount": 3200,
+   "finaldate": "2023/08/01"
+},
+{
+   "title": "Research for covid",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801947/IMAGEN_2_mrsdgn.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Health care",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/07/12"
+},
+{
+   "title": "Solar energy for rural school",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801934/IMAGEN_1_aq0how.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Education",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/07/01"
+},
+{
+   "title": "Public basketball courts in the squares",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675801904/cld-sample-3.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "People",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/08/20"
+},
+{
+   "title": "School choir",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138633/school_choir_wfsuru.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/05/20"
+},
+{
+   "title": "My piano lessons",
+   "subtitle": "I want buy own piano for practice",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675896592/piano_lessons_fqaats.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3800,
+   "parcialAmount": 1100,
+   "finaldate": "2023/04/14"
+},
+{
+   "title": "I want to be a filmmaker",
+   "subtitle": "My old camera broke",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675896701/camera_xhbbuv.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/04/01"
+},
+{
+   "title": "Argentine train documentary",
+   "subtitle": "I would like to make a documentary about the most important trains",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1675896702/trains_jyuddc.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/04/28"
+},
+{
+   "title": "My flute was rolling",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138633/flauta_kkghm1.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3200,
+   "parcialAmount": 200,
+   "finaldate": "2023/05/23"
+},
+{
+   "title": "My violin is old",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138633/little_gir_play_violin_phtjpi.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Music",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/05/30"
+},
+{
+   "title": "My first play as a director",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138859/actuation_h9gy6d.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Art",
+   "totalAmount": 3200,
+   "parcialAmount": 3200,
+   "finaldate": "2023/03/30"
+},
+{
+   "title": "Help me get my career off the ground",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138859/pinturas_d4qufv.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Professional growth",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/03/28"
+},
+{
+   "title": "I would like to be a painter",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676138859/paint_vr1bwn.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "Art",
+   "totalAmount": 3200,
+   "parcialAmount": 0,
+   "finaldate": "2023/03/17"
+},
+{
+   "title": "Help with a plate of food",
+   "subtitle": "I want my first guitarr for play",
+   "img": "https://res.cloudinary.com/duojqpw6r/image/upload/v1676139088/ong_hungry_d30z2z.jpg",
+   "description": "jdskjf alsmfhlakjf  lajshlkha lkajf",
+   "category": "ONG",
+   "totalAmount": 3200,
+   "parcialAmount": 3200,
+   "finaldate": "2023/05/01"
+}
+ 
+]
