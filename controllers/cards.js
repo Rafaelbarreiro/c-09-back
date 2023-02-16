@@ -10,7 +10,7 @@ const populateCards = async () => {
 
 const projection = { createdAt: 0, updatedAt: 0, __v: 0, avaliable: 0 }
 
-const getCards = async (req, res, next) => {
+const getCards = async (req, res) => {
   const {title, category, autor} = req.query;
   var allCards = await Cards.find({}, {projection});
 
@@ -36,9 +36,9 @@ const getCards = async (req, res, next) => {
       }
     }
   } catch (error) {
-    next(error)
+    res.status(400).json(error.message)
   }
-  next();
+  
 };
 
 const getCardById = async (req, res) => {
