@@ -39,16 +39,19 @@ const postUser = async (req, res) => {
     const user = new Users(req.body)
     try {
       const newUser = await user.save()
-      res.status(201).json(newUser)
+     
 
       const userRegistered = newUser[0]
       console.log(newUser, 'newUser')
       if(newUser){
         axios.post(`${process.env.BACK_URL}/email/register`, {
           username: newUser.username,
-          email: newUser.email
+          email: newUser.email,
+          img: newUser.img,
+          nickname: newUser.nickname
       })
       }
+      res.status(201).json(newUser)
       }
     catch (error) {
       console.log(error.message)
@@ -67,7 +70,8 @@ try {
         username: el.username,
         email: el.email,
         status: el.status,
-        isAdmin: el.isAdmin
+        isAdmin: el.isAdmin,
+        img: el.img
       })
     }
   })
@@ -75,30 +79,24 @@ try {
   
 }
 }
-
+ 
 const updateUser = async (req, res) => {
   const id = req.params.id
-  const info = req.body
-
-  const allUsers = await Users.findByIdAndUpdate(id, info, {
-    returnOriginal: false
-  })
-    .then(data => {
-      if (!data) {
-        res.status(404).send({
-          message: `Cannot update User with id=${id}. Maybe the User was not found!`
-        });
-      } else {
-        res.send({
-          message: "User was updated successfully!"
-        });
-      }
-    })
-    .catch(err => {
-      res.status(500).send({
-        message: "Could not update User with id=" + id
-      })
-    })
+  const data = req.body
+  console.log(data)
+  try {
+    const userUpdate = await Users.findByIdAndUpdate(
+    {_id : id},
+    data, {
+      new:true
+    }
+    )
+    console.log(userUpdate)
+    res.status(201).json(userUpdate)
+    
+  } catch (error) {
+    console.log(error.message)
+  } 
 }
 
 const deleteUser = async (req, res) => {

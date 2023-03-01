@@ -7,7 +7,8 @@ const userRoute = require('./routes/userRoute');
 const populateRouter = require ('./routes/populateRoute');
 const categoryRoutes = require ('./routes/categoryRoutes');
 const cardsRoute = require ('./routes/CardsRoutes');
-const emailRoute = require ('./routes/emailRoute')
+const emailRoute = require ('./routes/emailRoute');
+const donationRoutes = require ('./routes/donationRoutes');
 const server = express();
 const morgan = require("morgan");
 
@@ -47,11 +48,12 @@ app.use("/users", userRoute);
 app.use("/populate", populateRouter);
 app.use("/categories", categoryRoutes);
 app.use("/cards", cardsRoute);
-app.use("/email", emailRoute)
+app.use("/email", emailRoute);
+app.use("/donations", donationRoutes);
 
 const PORT = process.env.PORT || 3001;
 const servidor = app.listen(PORT, () => {
-    console.log(`Server runnig in port ${PORT}`)
+    console.log(`Server running in port ${PORT}`)
   });
 app.use((err, req, res, next) => {
     // eslint-disable-line no-unused-vars

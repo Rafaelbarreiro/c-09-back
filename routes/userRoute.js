@@ -9,7 +9,7 @@ router
     .post(postUser)
 router.route('/:email')
     .get(getUserById)
-  
+
 router
     .route('/:id')
     .delete(deleteUser)
